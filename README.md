@@ -1,8 +1,8 @@
 # SimpleShell
 
-SimpleShell is a custom Unix command-line interpreter developed in C as part of my Operating Systems project at Dublin City University.
+SimpleShell is a Unix command-line interpreter built using C as part of my Operating Systems project at Dublin City University.
 
-The project explores fundamental operating system concepts through the implementation of a functional command-line shell, including process management, system calls, environment variables, and input/output redirection.
+The project made me practice my knowledge of operating system concepts through the implementation of a functional command-line shell. Topics include process management, system calls, environment variables, and input/output redirection.
 
 ### Features
 
